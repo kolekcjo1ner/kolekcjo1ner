@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**kolekcjo1ner/kolekcjo1ner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my github profile
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=kolekcjo1ner&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
+</p>
+
+### Github Stats
+
+![Metrics](https://metrics.lecoq.io/kolekcjo1ner?template=classic&isocalendar=1&stars=1&introduction=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=3&config.timezone=America%2FChicago)
+
+### Contact Information
+
+ ![Discord](https://discord.c99.nl/widget/theme-5/852899895719493642.png)
